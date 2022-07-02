@@ -6,6 +6,6 @@
 
 make
 make \
-	DESTDIR="$1" \
-	install \
-	install-config
+    DESTDIR="$1" \
+    install \
+    install-config
